@@ -4,6 +4,10 @@
 
 body {
   @apply bg-zinc-900 h-full overflow-x-hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 #__next {
