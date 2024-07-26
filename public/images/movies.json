@@ -1,0 +1,82 @@
+[
+    {
+        "title": "They Shall Not Grow Old",
+        "description": "A documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war.",
+        "videoUrl": "https://www.youtube.com/watch?v=IrabKK9Bhds",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZWI3ZThmYzUtNDJhOC00ZWY4LThiNmMtZDgxNjE3Yzk4NDU1XkEyXkFqcGdeQXVyNTk5Nzg1NjQ@._V1_SX300.jpg",
+        "genre": "Documentary",
+        "duration": "99 minutes"
+    },
+    {
+        "title": "Midnight Family",
+        "description": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a private ambulance, competing with other for-profit EMTs for patients in need of urgent help.",
+        "videoUrl": "https://www.youtube.com/watch?v=R4YgL-jaVbk",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGYyZTk5MjYtNGY2ZS00NzRhLTgwMWMtZjhmMmQ4OGFkNTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "genre": "Documentary",
+        "duration": "81 minutes"
+    },
+    {
+        "title": "Pain & Gain",
+        "description": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong.",
+        "videoUrl": "https://www.youtube.com/watch?v=SEQ8jyvmYtw",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jpg",
+        "genre": "Action",
+        "duration": "129 minutes"
+    },
+    {
+        "title": "The Irishman",
+        "description": "A mob hitman recalls his possible involvement with the slaying of Jimmy Hoffa.",
+        "videoUrl": "https://www.youtube.com/watch?v=WHXxVmeGQUc",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+        "genre": "Biography",
+        "duration": "209 minutes"
+    },
+    {
+        "title": "Once Upon a Time... in Hollywood",
+        "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "videoUrl": "https://www.youtube.com/watch?v=ELeMaP8EPAA",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+        "genre": "Comedy",
+        "duration": "161 minutes"
+    },
+    {
+        "title": "Marriage Story",
+        "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+        "videoUrl": "https://www.youtube.com/watch?v=BHi-a1n8t7M",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+        "genre": "Comedy",
+        "duration": "137 minutes"
+    },
+    {
+        "title": "Little Women",
+        "description": "The March sisters live and grow in post-Civil War America.",
+        "videoUrl": "https://www.youtube.com/watch?v=AST2-4db4ic",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/81SXBRZs7cL._AC_UF894,1000_QL80_.jpg",
+        "genre": "Drama",
+        "duration": "115 minutes"
+    },
+    {
+        "title": "Parasite",
+        "description": "All unemployed, Ki-taek and his family take peculiar interest in the wealthy and glamorous Parks, as they ingratiate themselves into their lives and get entangled in an unexpected incident.",
+        "videoUrl": "https://www.youtube.com/watch?v=5xH0HfJHsaY",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "genre": "Comedy",
+        "duration": "132 minutes"
+    },
+    {
+        "title": "Knives Out",
+        "description": "A detective investigates the death of a patriarch of an eccentric, combative family.",
+        "videoUrl": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+        "genre": "Comedy",
+        "duration": "130 minutes"
+    },
+    {
+        "title": "Dolemite Is My Name",
+        "description": "Eddie Murphy portrays real-life legend Rudy Ray Moore, a comedy and rap pioneer who proved naysayers wrong when his hilarious, obscene, kung-fu fighting alter ego, Dolemite, became a 1970s Blaxploitation phenomenon.",
+        "videoUrl": "https://www.youtube.com/watch?v=Ws1YIKsuTjQ",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "genre": "Biography",
+        "duration": "118 minutes"
+    }
+]

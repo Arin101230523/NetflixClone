@@ -62,7 +62,7 @@ model VerificationToken {
   token String @unique
   expires DateTime
 
-  @@unique([identifier])
+  @@unique([identifier, token])
 }
 
 model Movie {
